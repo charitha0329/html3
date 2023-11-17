@@ -1,0 +1,39 @@
+#title{
+    /* border: 2px solid black; */
+    height: 600px;
+    text-align: center;
+    font-size: 20px;
+    width:850px;
+    margin: auto;
+    
+}
+.para1{
+    text-align: justify;
+    /* border: 2px solid black; */
+    font-size: 25px;
+    float: left;
+    word-spacing: 15px;
+    width:400px ;
+    height:200px;
+}
+.impa{
+    /* border: 2px solid black; */
+    width: 430px;
+    float: right;
+    height: 420px;
+    margin: 15px 0px 0px 0px;
+}
+.img{
+    /* border: 2px solid black; */
+    float: left;
+    width:37%;
+    padding: 20px;
+    
+}
+.para2{
+    text-align: justify;
+    word-spacing: 15px;
+    font-size: 25px;
+    
+    
+}
